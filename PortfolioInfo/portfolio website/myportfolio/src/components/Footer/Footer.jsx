@@ -9,10 +9,12 @@ import {
 
 const Footer = () => {
   const handleScroll = (sectionId) => {
+    const section = document.getElementById(sectionId);
     if (section) {
       section.srcollIntoView({ behavior: "smooth" });
     }
   };
+  
   return (
     <footer className="text-white py-8 px-[12vw] md:px-[7vw] lg:px-[20vw]">
       <div className="container mx-auto text-center">
