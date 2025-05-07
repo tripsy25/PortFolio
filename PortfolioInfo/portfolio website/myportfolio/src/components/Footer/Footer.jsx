@@ -44,24 +44,24 @@ const Footer = () => {
           {[
             {
               icon: <FaFacebook />,
-              link: "https://www.facebook.com/tarun.kaushik.3511041/",
+              link: "https://www.facebook.com/tripti.verma.75491/",
             },
             {
               icon: <FaTwitter />,
-              link: "https://twitter.com/CodingMaster6?s=09",
+              link: "https://x.com/tvtripti2525",
             },
             {
               icon: <FaLinkedin />,
-              link: "https://www.linkedin.com/in/tarun-kaushik-553b441a4",
+              link: "https://www.linkedin.com/in/tripti-verma-25tv/",
             },
-            {
-              icon: <FaInstagram />,
-              link: "https://www.instagram.com/coding_.master/",
-            },
-            {
-              icon: <FaYoutube />,
-              link: "https://www.youtube.com/codingmasteryt",
-            },
+            // {
+            //   icon: <FaInstagram />,
+            //   link: "https://www.instagram.com/coding_.master/",
+            // },
+            // {
+            //   icon: <FaYoutube />,
+            //   link: "https://www.youtube.com/codingmasteryt",
+            // },
           ].map((item, index) => (
             <a
               key={index}
