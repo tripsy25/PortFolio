@@ -60,7 +60,7 @@ const Footer = () => {
             // },
             // {
             //   icon: <FaYoutube />,
-            //   link: "https://www.youtube.com/codingmasteryt",
+            //   link: "https://www.youtube.com/codingmasteryt",  ranstand
             // },
           ].map((item, index) => (
             <a
