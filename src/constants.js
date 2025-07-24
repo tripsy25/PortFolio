@@ -223,14 +223,14 @@ export const education = [
 export const projects = [
   {
     id: 0,
-    title: "GitHub Profile Detective",
+    title: "Chit Chat App",
     description:
-      "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
+      "Chit Chat App is a real-time messaging platform designed for seamless user communication.Built using WebSockets, it enables instant message delivery without page refresh.Ideal for fast, interactive chats in personal or group settings.",
     image: githubdetLogo,
     tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
     github:
-      "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
-    webapp: "https://githubprofiledetective.netlify.app/",
+      "https://github.com/tripsy25/Chit-chat",
+    webapp: "https://chit-chat-v69u.vercel.app/",
   },
   {
     id: 1,
