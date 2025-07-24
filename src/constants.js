@@ -45,7 +45,7 @@ import edmundsLogo from "./assets/education_logo/Edmunds_Logo.png";
 import hpsLogo from "./assets/education_logo/HPS_Logo.jpg";
 
 // Project Section Logo's
-import githubdetLogo from "./assets/work_logo/github_det.png";
+import githubdetLogo from "./assets/work_logo/Github_Profile.png";
 import csprepLogo from "./assets/work_logo/cs_prep.png";
 import movierecLogo from "./assets/work_logo/movie_rec.png";
 import taskremLogo from "./assets/work_logo/task_rem.png";
