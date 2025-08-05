@@ -46,7 +46,7 @@ import hpsLogo from "./assets/education_logo/HPS_Logo.jpg";
 
 // Project Section Logo's
 import githubdetLogo from "./assets/work_logo/Github_Profile.png";
-import csprepLogo from "./assets/work_logo/cs_prep.png";
+import shoppingLogo from "./assets/work_logo/shoppingApp.png";
 import movierecLogo from "./assets/work_logo/movie_rec.png";
 import taskremLogo from "./assets/work_logo/task_rem.png";
 import npmLogo from "./assets/work_logo/npm.png";
@@ -234,10 +234,10 @@ export const projects = [
   },
   {
     id: 1,
-    title: "CS Prep",
+    title: "E Commerce",
     description:
-      "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
-    image: csprepLogo,
+      "A sleek and user-friendly shopping app designed to offer a seamless e-commerce experience. Users can effortlessly browse products, filter by category or price, add items to their cart, and securely complete purchases. With real-time inventory updates, order tracking, personalized recommendations, and secure payment integration, this app caters to both small and mid-sized businesses looking to sell online. Built for scalability and performance, it ensures a smooth user journey from product discovery to checkout.",
+    image: shoppingLogo,
     tags: [
       "React JS",
       "Node.js",
@@ -247,8 +247,8 @@ export const projects = [
       "CSS",
       "JavaScript",
     ],
-    github: "https://github.com/codingmastr/CSPrep",
-    webapp: "https://csprep.netlify.app/",
+    github: "https://github.com/tripsy25/shoppingApplication",
+    webapp: "https://shopping-application-three.vercel.app/",
   },
   {
     id: 2,
