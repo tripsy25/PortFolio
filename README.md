@@ -2,6 +2,9 @@
 
 Portfolio Deployed Link : https://port-folio-ormkv9q9u-tripti-vermas-projects.vercel.app/
 
+<img width="1319" height="787" alt="image" src="https://github.com/user-attachments/assets/5c734d1e-b0bf-4040-908d-d889e2781c7c" />
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
